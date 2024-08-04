@@ -6,3 +6,6 @@
 - **OS Installation**: Install Windows-based operating systems directly from Diskcraft, streamlining the setup process.
 - **Flexible Environment**: Operates smoothly in WindowsPE environments or directly from a Windows-based machine, providing flexibility for various deployment scenarios.
 - **User-Friendly Interface**: Intuitive and easy-to-navigate interface, making complex tasks straightforward and accessible.
+
+- ## Project Icon
+- ![icon](https://i.imgur.com/yfJ9HRR.png)
