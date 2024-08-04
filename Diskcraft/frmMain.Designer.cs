@@ -178,6 +178,7 @@ namespace Diskcraft
             this.tsExit.Name = "tsExit";
             this.tsExit.Size = new System.Drawing.Size(180, 22);
             this.tsExit.Text = "&Exit";
+            this.tsExit.Click += new System.EventHandler(this.tsExit_Click);
             // 
             // tsTools
             // 

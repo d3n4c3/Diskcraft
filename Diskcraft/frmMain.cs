@@ -60,5 +60,10 @@ namespace Diskcraft
         {
 
         }
+
+        private void tsExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
