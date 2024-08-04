@@ -1,7 +1,7 @@
 # Diskcraft
 
 **Diskcraft** is a versatile imaging software designed for IT professionals and system administrators. Leveraging the power of DISM (Deployment Imaging Service and Management Tool), Diskcraft excels in capturing and deploying disk images with efficiency.
-
+## Project Icon
 ![icon](https://i.imgur.com/yfJ9HRR.png)
 ## Key Features  
 - **Image Capture and Deployment**: Seamlessly capture and deploy disk images, ensuring consistent and reliable system setups.
