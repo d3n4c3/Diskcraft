@@ -8,5 +8,6 @@
 ## Key Features  
 - **Image Capture and Deployment**: Seamlessly capture and deploy disk images, ensuring consistent and reliable system setups.
 - **OS Installation**: Install Windows-based operating systems directly from Diskcraft, streamlining the setup process.
+- **Script Injection**: Inject custom scripts directly into a deployed windows operating system to run tasks on startup.
 - **Flexible Environment**: Operates smoothly in WindowsPE environments or directly from a Windows-based machine, providing flexibility for various deployment scenarios.
 - **User-Friendly Interface**: Intuitive and easy-to-navigate interface, making complex tasks straightforward and accessible.
