@@ -1,0 +1,10 @@
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\bin\Debug\Diskcraft.exe.config
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\bin\Debug\Diskcraft.exe
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\bin\Debug\Diskcraft.pdb
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.csproj.AssemblyReference.cache
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.frmMain.resources
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.Properties.Resources.resources
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.csproj.GenerateResource.cache
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.csproj.CoreCompileInputs.cache
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.exe
+C:\Users\katco\source\repos\Diskcraft\Diskcraft\obj\Debug\Diskcraft.pdb
